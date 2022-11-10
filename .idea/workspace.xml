@@ -1,62 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="ANALYZE_TEST_SOURCES" value="false" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92edeb8a-7471-4e44-855f-63ad93c9c9ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/dao/ApplianceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/dao/DAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/service/ApplianceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/service/ServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/service/impl/ApplianceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/glassfish_jaxb_runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javax_activation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/dao/ApplianceDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/dao/DAOException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/dao/DAOException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/dao/DAOFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/dao/impl/ApplianceDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/dao/impl/ApplianceDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/entity/Appliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/entity/Appliance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/entity/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/entity/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/entity/Oven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/entity/Oven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/entity/Refrigerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/entity/Refrigerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/entity/Speakers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/entity/Speakers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/entity/TabletPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/entity/TabletPC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/entity/Teapot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/entity/Teapot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/main/PrintApplianceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/main/PrintApplianceInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/service/ApplianceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/service/ServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/service/ServiceException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/service/ServiceFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/service/impl/ApplianceServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/tc/task01/service/validation/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task1/service/validation/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/by/tc/task01/AppTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="92edeb8a-7471-4e44-855f-63ad93c9c9ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,66 +27,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/WT_Lab2",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.XML"
+    "last_opened_file_path": "D:/Универ/5_сем/ВТ/Лабы/jwd-task01-template_v2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Универ\5_сем\ВТ\Лабы\WT_Lab2\src\main\java\txtDBtoXML" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Универ\5_сем\ВТ\Лабы\WT_Lab2\src\main" />
-      <recent name="D:\Универ\5_сем\ВТ\Лабы\WT_Lab2\src\main\java" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.tc.task01.main.Main" />
+      <option name="MAIN_CLASS_NAME" value="task1.main.Main" />
       <module name="WT_Lab2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.tc.task01.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="by.tc.task01.dao.impl.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.tc.task01.dao.impl.Main" />
-      <module name="WT_Lab2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.tc.task01.dao.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="txtDBtoXML.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="txtDBtoXML.Main" />
-      <module name="WT_Lab2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="txtDBtoXML.*" />
+          <option name="PATTERN" value="task1.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,8 +54,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.by.tc.task01.dao.impl.Main" />
-        <item itemvalue="Application.txtDBtoXML.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,49 +67,13 @@
       <updated>1665729844906</updated>
       <workItem from="1665729846449" duration="673000" />
       <workItem from="1666246519382" duration="38000" />
-      <workItem from="1667734168758" duration="626000" />
-      <workItem from="1667736106193" duration="27789000" />
-      <workItem from="1667798529797" duration="3939000" />
-      <workItem from="1667820449961" duration="20884000" />
-      <workItem from="1668108468201" duration="5488000" />
-      <workItem from="1668115640426" duration="2345000" />
+      <workItem from="1667734168758" duration="1315000" />
+      <workItem from="1668119275250" duration="204000" />
+      <workItem from="1668121116451" duration="223000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="XDebuggerManager">
-    <pin-to-top-manager>
-      <pinned-members>
-        <PinnedItemInfo parentTag="java.lang.reflect.Field" memberName="modifiers" />
-      </pinned-members>
-    </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="matcher.from" />
-        <watch expression="e" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WT_Lab2$by_tc_task01_dao_impl_Main.ic" NAME="by.tc.task01.dao.impl.Main Coverage Results" MODIFIED="1667843066777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>by.tc.task01.dao.impl.*</FILTER>
-    </SUITE>
   </component>
 </project>
